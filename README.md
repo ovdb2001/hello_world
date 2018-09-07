@@ -1,3 +1,2 @@
 # hello_world
-first repository 
-je m'appelle olivier
+yo i'm olivier
